@@ -1,6 +1,6 @@
 # cfm-web
 
-> A Vue.js project
+> A Vue.js project校园跳蚤市场
 
 ## Build Setup
 
