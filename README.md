@@ -1,6 +1,6 @@
 # cfm-web
 
-> A Vue.js project test 
+> A Vue.js project 提交非命令式
 
 ## Build Setup
 
