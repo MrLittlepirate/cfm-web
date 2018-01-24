@@ -1,6 +1,6 @@
 # cfm-web
 
-> A Vue.js project test ,,,
+> A Vue.js project test 
 
 ## Build Setup
 
